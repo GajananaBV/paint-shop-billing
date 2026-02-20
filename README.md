@@ -4,6 +4,8 @@ A **full-stack billing system** developed for small paint shops to manage produc
 
 The application provides a complete billing workflow — from product management to invoice download — designed to simulate a real-world GST billing solution used in retail businesses.
 <img width="1915" height="924" alt="image" src="https://github.com/user-attachments/assets/5bad488e-c944-4d39-8e76-40e06eb50b6b" />
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/ea8b7214-4384-45ac-8f2e-4126d369b0d0" />
+
 
 ---
 
